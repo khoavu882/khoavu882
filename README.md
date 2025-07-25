@@ -1,8 +1,7 @@
 # Hi, I’m Khoa Vu ([@khoavu882](https://github.com/khoavu882))
 
 ## 🚀 Featured Projects
-- **[project-name](repo-link)** – Description of what it does (Java, Quarkus, Hibernate Reactive)
-- **AnotherProject** – Short summary (Spring WebFlux, Docker, CI/CD)
+- **[quarkus-rest](https://github.com/khoavu882/quarkus-rest-boilerplate)** – Description of what it does (Java, Quarkus, Hibernate Reactive)
 
 ## 🌱 Current Learning
 - Deep dive into reactive programming (Reactor, Vert.x, Mutiny)
