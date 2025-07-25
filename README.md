@@ -9,4 +9,4 @@
 - Kubernetes and cloud-native deployment
 
 ## 📫 Contact
-[LinkedIn](https://linkedin.com/in/...), [Keybase](https://keybase.io/khoavu882)
+[LinkedIn](https://linkedin.com/in/...)
